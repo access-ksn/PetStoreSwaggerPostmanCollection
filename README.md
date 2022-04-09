@@ -17,6 +17,6 @@
 -> Make sure to have Node.JS and newman installed globally followed by HTML Extra reporter
    (npm install -g newman-reporter-htmlextra)
 
-### Then run this command below
+### navigate to the path of this cloned repository folder and then run this command below from command line
 
 -> newman run PetStoreCollection.json -r htmlextra
